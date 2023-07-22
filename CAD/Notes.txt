@@ -91,12 +91,28 @@ x2 - 7 (ANGL) - 14
 264 in
 22 ft
 
+(round up to 25 feet)
+
+
 side frame:
 x2 - 6 - 12
 x1 7.5 - 7.5
 20.5 in
 
 Flat 1/4 inch Metal stock: 10 in x 5 in
+
+
+Final need:
+5/8 hot rolled round steel, 6 ft,
+1/4 hot rolled round steel, 3-4 ft
+12 gauge steel sheet, 2ft x 4ft OR 3ft x 3ft, (8-9 sq.ft)
+1/4 steel plate, 1 sq. foot
+3/4 x 3/4, 16 gauge or 14 gauge 23-35 feet,
+1 inch black pipe, 3 ft
+
+
+
+
 
 
 
