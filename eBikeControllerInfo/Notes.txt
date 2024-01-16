@@ -1,0 +1,14 @@
+The small ebike controller uses an STM32 controller to get things done.
+No shock there.
+
+It gets info from the trigger at a logic level of 5 volts,
+and sends back responses at a logic level of 3 volts at a high, but unmeasured baud rate,
+
+
+The large ebike controller uses a self-branded XCM-K microcontroller.
+There is no infomration about this controller online,
+but it appears to be a generic clone of a SH79F1611U chip.
+
+This chip is made by SINO WEALTH, based on 8051 architecture
+
+
